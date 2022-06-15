@@ -1,0 +1,128 @@
+@media (max-width: 1199px) {
+
+}
+
+@media (max-width: 991px) {
+ /*   .feature-imagebox{
+        width: 270px;
+        margin: 0 auto;
+    }*/
+    .contact_ul li {
+        width: 48%;
+        margin: 7px 0px;
+    }
+    .intro-single .title-single-box .title-single{
+        font-size: 1.4rem;
+    }
+    .h1, h1{
+        font-size: 1.4rem;
+    }
+    .h2, h2 {
+        font-size: 1.3rem;
+    }
+    .h3, h3 {
+        font-size: 1.2rem !important;
+    }
+    .h5, h5 {
+        font-size: 1rem;
+    }
+    .h6, h6 {
+        font-size: 0.8rem;
+    }
+    .feature_box{
+        top: 10%;
+    }
+    .feature_box h4{
+        font-size: 1.3rem;
+    }
+    .mtop_25{
+        margin-top: 25px;
+    }
+    .ptop_0{
+        padding-top: 0px !important;
+    }
+    .margin_bottom_50{
+        margin-bottom: 50px;
+    }
+    .margin_bottom_20{
+        margin-bottom: 20px;
+    }
+    .catalouge_position{
+        width: 90%;
+        margin: 0 auto;
+    }
+
+}
+
+@media (max-width: 767px) {
+
+}
+
+@media (max-width: 640px) {
+
+}
+
+@media (max-width: 480px) {
+    .contact_ul li {
+        width: 100%;
+        margin: 10px 0px;
+    }
+    .intro-single .title-single-box .title-single{
+        font-size: 1.4rem;
+    }
+    .h1, h1{
+        font-size: 1.4rem;
+    }
+    .h2, h2 {
+        font-size: 1.3rem;
+    }
+    .h3, h3 {
+        font-size: 1.2rem !important;
+    }
+    .h5, h5 {
+        font-size: 1rem;
+    }
+    .h6, h6 {
+        font-size: 0.8rem;
+    }
+    .feature_box{
+        top: 10%;
+    }
+    .feature_box h4{
+        font-size: 1.3rem;
+    }
+    .mtop_25{
+        margin-top: 25px;
+    }
+    .intro-single .title-single-box{
+        padding: 0;
+    }
+    .ptop_0{
+        padding-top: 0px !important;
+    }
+    .margin_bottom_50{
+        margin-bottom: 50px;
+    }
+    .margin_bottom_20{
+        margin-bottom: 20px;
+    }
+    .catalouge_position{
+        width: 90%;
+        margin: 0 auto;
+    }
+    .made_in_india{
+        display: none;
+    }
+}
+
+@media (max-width: 360px) {
+    .contact_ul li {
+        width: 100%;
+        margin: 10px 0px;
+    }
+
+}
+
+@media (max-width: 320px) {
+
+}
