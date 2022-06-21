@@ -106,9 +106,9 @@
 
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <a class="dropdown-item menu_border_bottom" href="gerotorpumps.php" style="color: #2eaadc;">Gerotorpumps</a>
-                        <a class="dropdown-item menu_border_bottom" href="filter.php" style="color: #2eaadc;">Filters</a>
+                        <!-- <a class="dropdown-item menu_border_bottom" href="filter.php" style="color: #2eaadc;">Filters</a>
                         <a class="dropdown-item" href="tank-accessories.php" style="color: #2eaadc;">Tank
-                            accessories</a>
+                            accessories</a> -->
                     </div>
                 </li>
                 <li class="nav-item">

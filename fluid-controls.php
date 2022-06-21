@@ -256,7 +256,7 @@
             var dataString = "message_form=" + message_form + "&c_name=" + c_name + "&postal_code=" + postal_code + "&f_name=" + f_name + "&s_name=" + s_name + "&email=" + email + "&phone=" + phone + "&subject=" + subject + "&city=" + city + "&address=" + address;
             $.ajax({
                 type: "POST",
-                url: "mail-send-ajax.php", // Name of the php files
+                url: "sendRequest.php", // Name of the php files
                 data: dataString,
                 cache: false,
                 success: function (html) {

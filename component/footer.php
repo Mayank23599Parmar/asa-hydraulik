@@ -60,13 +60,16 @@
                         <ul class="list-unstyled">
                             <li class="color-a">
                                 <span class="color-text-a"><b>Address</b> : </span>
-                                Plot No C1-102-9, GIDC, Palej, Dist Bharuch 392220,Gujrat, INDIA
+                                Plot No.1226,GIDC Phase-III, Vatva Ahmedabad-382425
                             </li>
                             <li class="color-a">
                                 <span class="color-text-a"><b>Email</b> :</span> salesindia@asahydraulik.com
                             </li>
                             <li class="color-a">
-                                <span class="color-text-a"><b>Phone </b>:</span> +91 2642 277038
+                                <span class="color-text-a"><b>Phone </b>:</span> +91 7043907273
+                            </li>
+                            <li class="color-a">
+                                <span class="color-text-a"><b>Phone </b>:</span> +91 8866007273
                             </li>
                         </ul>
                     </div>

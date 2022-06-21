@@ -73,17 +73,11 @@
                 </nav>
             </div>
             <div class="col-md-8">
-                <p>asa stands for developments, advances and innovations already at work through our customers’
-                    various mobile and stationary applications. More than 38 years experience in thermal systems,
-                    connection technology and fluid controls has made us a global leader in advanced technologies.
-                    Our experience creates progress to ensure you competitive pricing, consistent product
-                    performance and reliability.</p>
-                <p>asa india’s main facility is located in Palej, near Vadodara. Palej is a census town in the Bharuch
-                    district, Gujarat, India. With its strong growth rate and fast developing infrastructure asa made
-                    the right choice and took the way into a prosperous future in India.</p>
+                <p>asa stands for developments, advances and innovations already at work through our customers’ various mobile and stationary applications. More than 40 years experience in thermal systems, connection technology and fluid controls has made us a global leader in advanced technologies. Our experience creates progress to ensure you competitive pricing, consistent product performance and reliability.</p>
+                <p>Our sales engineers and back office in India are ready to support your application with our products. Contact us at +91 7043907273 or salesindia@asahydraulik.com.</p>
 
-                <p>Our sales office in Mumbai is an addition for best service and sales support for India. Contact us at
-                    +91 2642 277038 or salesindia@asahydraulik.com</p>
+                <!-- <p>Our sales office in Mumbai is an addition for best service and sales support for India. Contact us at
+                    +91 2642 277038 or salesindia@asahydraulik.com</p> -->
 
                 <h2>Be different. Make a difference. </h2>
 
@@ -96,7 +90,7 @@
                     innovative products, but our major attitude is a the view into the future. Please check out our
                     newest products and technologies in this catalogue and contact us if more detailed information is
                     required.</p>
-                <img src="assets/img/about/india.JPG" style="width: 100%">
+                <!-- <img src="assets/img/about/india.JPG" style="width: 100%"> -->
             </div>
             <div class="col-md-4">
                 <img src="assets/img/asa-India.jpg" class="full_width"><br><br>
@@ -432,7 +426,7 @@
             var dataString = "message_form=" + message_form + "&c_name=" + c_name + "&postal_code=" + postal_code + "&f_name=" + f_name + "&s_name=" + s_name + "&email=" + email + "&phone=" + phone + "&subject=" + subject + "&city=" + city + "&address=" + address;
             $.ajax({
                 type: "POST",
-                url: "mail-send-ajax.php", // Name of the php files
+                url: "sendRequest.php", // Name of the php files
                 data: dataString,
                 cache: false,
                 success: function (html) {
