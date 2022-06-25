@@ -83,7 +83,7 @@
                         </div>-->
                     </div>
                 </div>
-                <div class="feature-imagebox border download-action mt-3">
+                <!-- <div class="feature-imagebox border download-action mt-3">
                     <div class="block">
                         <h5>Filters
                         </h5>
@@ -94,8 +94,8 @@
                         </div>
 
                     </div>
-                </div>
-                <div class="feature-imagebox border download-action mt-3">
+                </div> -->
+                <!-- <div class="feature-imagebox border download-action mt-3">
                     <div class="block">
                         <h5>Tank Accessories
                         </h5>
@@ -106,7 +106,7 @@
                         </div>
 
                     </div>
-                </div>
+                </div> -->
             </div>
 
 

@@ -68,9 +68,9 @@
                             <li class="color-a">
                                 <span class="color-text-a"><b>Phone </b>:</span> +91 7043907273
                             </li>
-                            <li class="color-a">
+                            <!-- <li class="color-a">
                                 <span class="color-text-a"><b>Phone </b>:</span> +91 8866007273
-                            </li>
+                            </li> -->
                         </ul>
                     </div>
                     <!--<div class="socials-a">

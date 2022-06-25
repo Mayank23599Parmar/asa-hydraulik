@@ -96,7 +96,7 @@
                                         <h5>India</h5>
 
                                         <p class="mb-1">
-                                            asa heatexchanger Pvt Ltd
+                                            asa heatexchangers Pvt Ltd<br/>
                                             Plot no.1226, Phase-3 GIDC, Vatva
                                             <br> Ahmedabad – 382445
                                         </p>
@@ -164,6 +164,25 @@
 
                                         <p class="mb-1">Phone.
                                             <span class="color-a"> +86 512 62381988</span>
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <h5>AUSTRIA<br>
+                                        </h5>
+
+                                        <p class="mb-1">
+                                            
+                                        asa Products Pty Ltd.<br>
+                                        Quinlan Road 23
+                                            <br>3076 Epping, Victoria
+                                        </p>
+
+                                        <p class="mb-1">Email.
+                                            <span class="color-a">melbourne@asahydraulik.com</span>
+                                        </p>
+
+                                        <p class="mb-1">Phone.
+                                            <span class="color-a">+61 3 9397 6129</span>
                                         </p>
                                     </li>
                                     <!-- <li>
