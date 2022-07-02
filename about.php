@@ -93,8 +93,8 @@
                 <!-- <img src="assets/img/about/india.JPG" style="width: 100%"> -->
             </div>
             <div class="col-md-4">
-                <img src="assets/img/asa-India.jpg" class="full_width"><br><br>
-                <img src="assets/img/about/ASA-India-Location.jpg" class="full_width"><br><br>
+            <img src="assets/img/about/ASA-India-Location.jpg" class="full_width"><br><br>
+                <img src="assets/img/about/abbout-2.jpg" class="full_width"><br><br>
                 <img src="assets/img/about/office-Mumbai.jpg" class="full_width">
             </div>
 
