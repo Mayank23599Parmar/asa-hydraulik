@@ -294,7 +294,7 @@
                 </div>
                 <div class="col-lg-6 col-md-12 mtop_25">
                     <div id="map" class="contact-map">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3673.2433057202534!2d72.62778887887399!3d22.97807887571397!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e861de5042299%3A0x34ca6376ecda3319!2sPhase%203%2C%20GIDC%20Estate%2C%20Vatva%2C%20Ahmedabad%2C%20Gujarat%20382445!5e0!3m2!1sen!2sin!4v1655830131768!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3673.2433057202534!2d72.62778887887399!3d22.97807887571397!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e861de5042299%3A0x34ca6376ecda3319!2sPhase%203%2C%20GIDC%20Estate%2C%20Vatva%2C%20Ahmedabad%2C%20Gujarat%20382445!5e0!3m2!1sen!2sin!4v1655830131768!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
                 </div>
                 <!--<div class="col-sm-12 section-t8">
