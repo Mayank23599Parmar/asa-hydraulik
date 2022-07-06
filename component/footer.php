@@ -28,13 +28,13 @@
                         <div class="w-body-a">
                             <ul class="list-unstyled">
                                 <li class="item-list-a">
-                                    <i class="fa fa-angle-right"></i> <a href="index.php">home</a>
+                                    <i class="fa fa-angle-right"></i> <a href="index.php">Home</a>
                                 </li>
                                 <li class="item-list-a">
                                     <i class="fa fa-angle-right"></i> <a href="thermal-system.php">Thermal System</a>
                                 </li>
                                 <li class="item-list-a">
-                                    <i class="fa fa-angle-right"></i> <a href="connection-technology.php">connection
+                                    <i class="fa fa-angle-right"></i> <a href="connection-technology.php">Connection
                                         Technology</a>
                                 </li>
                                 <li class="item-list-a">

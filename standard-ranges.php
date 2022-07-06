@@ -76,7 +76,7 @@
                         <p>Download our new catalogue or visit our hydraulics branch website. Gain from our full range standard program and use our free online calculation software.</p>
 
                         <div>
-                            <img src="assets/img/standard-ranges/Standard-ranges1.jpg" alt="" style="padding-bottom: 10px;">
+                            <img src="assets/img/standard-ranges/Standard-ranges.jpg" alt="" style="padding-bottom: 10px;">
                         </div>
                         <div class="download_catelog">
                             <a href="assets/pdf/standard-ranges-compressed.pdf" target="_blank">Download Catalogue <i class="fa fa-file-pdf-o"></i></a>

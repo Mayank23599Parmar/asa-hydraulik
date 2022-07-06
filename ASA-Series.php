@@ -48,7 +48,7 @@
         <div class="row">
             <div class="col-md-12 col-lg-8">
                 <div class="title-single-box padding_bottom_section">
-                    <h1 class="title-single">CC Series</h1>
+                    <h1 class="title-single"> Offline/ASA series</h1>
                     <h5>ASA Series 40/60lpm</h5>
                 </div>
             </div>
@@ -59,7 +59,7 @@
                             <a href="index.php">Home</a>
                         </li>
                         <li class="breadcrumb-item" aria-current="page">
-                            CC Series
+                        Offline/ASA series
                         </li>
                         <li class="breadcrumb-item active" aria-current="page">
                             ASA Series

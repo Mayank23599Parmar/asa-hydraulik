@@ -49,7 +49,7 @@
             <div class="col-md-12 col-lg-8">
                 <div class="title-single-box padding_bottom_section">
                     <h1 class="title-single">Offline/TT
-                        Rail and Offline/ASA series</h1>
+                        Rail</h1>
                     <h5>TT rail 20/30lpm</h5>
                 </div>
             </div>
